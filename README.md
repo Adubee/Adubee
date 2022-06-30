@@ -2,7 +2,8 @@
 - 👀 I’m interested in pthyon,JavaScript,Java
 - 🌱 I’m currently learning python,HTML
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me whatsapp-0509294003 or instagram @adubee_inc
+- 🍨 Currently reading on Ancient Egyptian History
+- 🎂 ...............................................
 
 <!---
 Adubee/Adubee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
