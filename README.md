@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Adubee
-- 👀 I’m interested in pthyon,JavaScript,Java
-- 🌱 I’m currently learning python,HTML
-- 💞️ I’m looking to collaborate on projects
-- 🍨 Currently reading on Ancient Egyptian History
+- 👀 Chopchop
+- 🌱 Pickpick
+- 💞️ Sunday
+- 🍨 Ancient Egyptian History
 - 🎂 ...............................................
 
 <!---
