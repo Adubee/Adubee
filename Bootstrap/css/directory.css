@@ -1,0 +1,53 @@
+.custom-col{
+    margin-top: 9rem;
+}
+input[type*=text]{
+    width: 400px;
+}
+.custom-col-insert{
+    margin-top: 20rem;
+}
+.custom-col-insert h3{
+    color: blue;
+}
+body{
+    background-color: #f6f6f6;
+}
+.custom-button{
+    margin-left: 46rem;
+}
+.bg-light-custom {
+    background-color: #3375b8 !important;
+}
+.navbar-light .navbar-nav .nav-link-custom {
+    color: #FFFFFF;
+}
+.navbar-light .navbar-nav .nav-link-custom:hover {
+    color: #112a7e;
+}
+
+
+.navbar-light .navbar-nav li .custom-nav{
+    margin-left: 60rem  !important;
+}
+.custom-col2{
+    margin-top: 9rem;
+}
+
+.custom-form-container{
+    margin-top: 15rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+.custom-images img{
+    height: 400px;
+    width: 100%;
+}
+.custom-container{
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+}
+.custom-row{
+    margin-top: 3rem;
+}
+
+
