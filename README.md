@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Adubee
-- 👀 Chopchop
-- 🌱 Pickpick
-- 💞️ Sunday
-- 🍨 Ancient Egyptian History
+- 👀 Chopchop.
+- 😎 Feeling good.
+- 🌱 Pickpick.
+- 💞️ Sunday.
+- 🐜 React
+- 🦴 Python 
+- 🍨 Ancient Egyptian History	
 - 🎂 ...............................................
 
 <!---
